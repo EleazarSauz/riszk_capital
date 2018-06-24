@@ -1,0 +1,30 @@
+.nav {
+  background-color: white;
+  box-shadow: 0 1px 5px #DBE6F1;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: calc(100% - 5rem);
+  height: 60px;
+  margin: 0 auto;
+}
+
+.nav-right li {
+  display: inline-block;
+  padding: 10px 0 10px 20px;
+}
+
+.nav-right__link {
+  color:#CCCFD4 ;
+}
+
+.nav-logo {
+  color: #017FF9;
+}
