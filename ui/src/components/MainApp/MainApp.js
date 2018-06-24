@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { Container } from 'reactstrap'
 import { Route, Switch } from 'react-router-dom'
 import Dashboard from '../Dashboard'
-import Index from '../Index/index'
+import Index from '../Index/Index.js'
 import './Main.css'
 
 class MainApp extends Component {

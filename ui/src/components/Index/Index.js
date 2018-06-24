@@ -1,8 +1,8 @@
 import React, { Component, Fragment } from 'react'
-import IndexAbout from './IndexAbout/index'
+import IndexAbout from './IndexAbout/index.js'
 import IndexChart from './IndexChart'
-import IndexDetail from './IndexDetail/Index'
-import IndexTrade from './IndexTrade/Index'
+import IndexDetail from './IndexDetail/Index.js'
+import IndexTrade from './IndexTrade/Index.js'
 import './Index.css'
 import { Row, Jumbotron, Col } from 'reactstrap'
 import { WSAEINVALIDPROVIDER } from 'constants';
