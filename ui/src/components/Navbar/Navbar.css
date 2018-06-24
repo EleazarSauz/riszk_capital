@@ -1,0 +1,43 @@
+.nav {
+  background-color: #000;
+  box-shadow: 0 1px 5px #DBE6F1;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: calc(100% - 5rem);
+  height: 60px;
+  margin: 0 auto;
+}
+
+.nav-right li {
+  display: inline-block;
+  padding: 10px 0 10px 20px;
+}
+
+.nav-right a:hover,
+.nav-logo:hover {
+  color: white;
+}
+
+.nav-right__link {
+  color:white ;
+}
+
+.nav-right__button {
+  border: none;
+  background-color: #000;
+  cursor: pointer;
+  color: white;
+}
+
+.nav-logo {
+  color: white;
+}
