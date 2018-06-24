@@ -1,20 +1,35 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import firebase from "firebase";
+
+import "./App.css";
+
+import Lan from "./components/landing/Lan";
+import Dash from "./components/dashboard/Dash";
 
 class App extends Component {
+  constructor() {
+    super();
+    this.state = {
+      user: null
+    };
+  }
+
+  componentWillMount() {
+    // Cada vez que el método 'onAuthStateChanged' se dispara, recibe un objeto (user)
+    // Lo que hacemos es actualizar el estado con el contenido de ese objeto.
+    // Si el usuario se ha autenticado, el objeto tiene información.
+    // Si no, el usuario es 'null'
+    firebase.auth().onAuthStateChanged(user => {
+      this.setState({ user });
+    });
+  }
+
   render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-      </div>
-    );
+    if (!this.state.user) {
+      return <Lan />;
+    } else {
+      return <Dash/>;
+    }
   }
 }
 
