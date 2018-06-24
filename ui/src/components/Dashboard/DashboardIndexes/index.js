@@ -11,9 +11,6 @@ class DashboardIndexes extends Component {
           <thead>
             <tr>
               <th>Nombre</th>
-              <th>Simbolo</th>
-              <th>Indicador </th>
-              <th>Otro Dato</th>
             </tr>
           </thead>
           <tbody>
@@ -21,33 +18,21 @@ class DashboardIndexes extends Component {
               <td>
                 <NavLink to="/indice">Tenis</NavLink>
               </td>
-              <td>Atp</td>
-              <td>5.70</td>
-              <td>otro dato</td>
             </tr>
           </tbody>
           <tbody>
             <tr>
               <td>Premier League</td>
-              <td>Ch</td>
-              <td>llenar dato</td>
-              <td>otro dato</td>
             </tr>
           </tbody>
           <tbody>
             <tr>
               <td>Futbol</td>
-              <td>ATP 100</td>
-              <td>llenar dato</td>
-              <td>otro dato</td>
             </tr>
           </tbody>
           <tbody>
             <tr>
               <td>La ligue 1</td>
-              <td>Ligue 1</td>
-              <td>Indicador</td>
-              <td>otro dato</td>
             </tr>
           </tbody>
         </Table>
