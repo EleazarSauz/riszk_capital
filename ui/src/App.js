@@ -1,11 +1,11 @@
 import React, { Component } from "react";
 import firebase from "firebase";
+import { Redirect } from 'react-router-dom'
 
 import "./App.css";
 
 import Lan from "./components/landing/Lan";
 import ContainerApp from "./container/ContainerApp";
-import { Container } from "reactstrap";
 
 class App extends Component {
   constructor() {
@@ -29,7 +29,7 @@ class App extends Component {
     if (!this.state.user) {
       return <Lan />;
     } else {
-      return <ContainerApp/>;
+      return <ContainerApp />
     }
 }
 }

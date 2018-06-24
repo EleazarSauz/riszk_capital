@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { NavLink } from 'react-router-dom'
 import './Navbar.css'
 
 class Sidebar extends Component {
@@ -10,15 +11,15 @@ class Sidebar extends Component {
       <nav className="nav">
         <div className="nav-container">
           <div>
-            <a href="#" className="nav-logo">
+            <NavLink to="/" className="nav-logo">
               Riszk Capital
-            </a>
+            </NavLink>
           </div>
           <ul className="nav-right">
             <li><a href="#" className="nav-right__link">Notificaciones</a></li>
             <li><a href="#" className="nav-right__link">Fondear</a></li>
             <li><a href="#" className="nav-right__link">Historial</a></li>
-            <li><button onClick={this.props.logout} className="nav-right__link">Cerrar Sesion</button></li>
+            <li><button onClick={this.props.logout} className="nav-right__button">Cerrar Sesion</button></li>
           </ul>
         </div>
       </nav>
