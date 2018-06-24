@@ -74,6 +74,30 @@ class Lan extends Component {
             </div>
           </div>
         </nav>
+
+        <header class="masthead video">
+      <div class="overlay"></div>
+      <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+        <source src="mp4/.mp4" type="video/mp4"/>
+      </video>
+      <div class="container h-100">
+        <div class="row h-100">
+          <div class="col-12 my-auto text-center text-white">
+            <img class="masthead-img img-fluid mb-3" src="./Vitality - Multipurpose Bootstrap 4 One Page Theme_files/profile.svg" alt=""/>
+            <div class="masthead-title">Riszk Capital</div>
+            <hr class="colored"/>
+            <div class="masthead-subtitle">La fintech que democratiza las inversiones </div>
+          </div>
+        </div>
+      </div>
+      <div class="scroll-down">
+        <a class="btn js-scroll-trigger" href="http://themes.startbootstrap.com/vitality-v2.2.0/video.html#about">
+          <i class="fa fa-angle-down fa-fw"></i>
+        </a>
+      </div>
+    </header>
+
+
         
       </div>;
   }
