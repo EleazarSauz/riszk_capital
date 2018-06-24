@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import firebase from "firebase";
+import "./landing.css";
 
 class Lan extends Component {
   constructor() {
