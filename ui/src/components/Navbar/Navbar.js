@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import './Navbar.css'
 
 class Sidebar extends Component {
+  constructor(props) {
+    super(props)
+  }
   render() {
     return (
       <nav className="nav">
@@ -15,7 +18,7 @@ class Sidebar extends Component {
             <li><a href="#" className="nav-right__link">Notificaciones</a></li>
             <li><a href="#" className="nav-right__link">Fondear</a></li>
             <li><a href="#" className="nav-right__link">Historial</a></li>
-            <li><a href="#" className="nav-right__link">Cuenta</a></li>
+            <li><button onClick={this.props.logout} className="nav-right__link">Cerrar Sesion</button></li>
           </ul>
         </div>
       </nav>

@@ -1,11 +1,9 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 import firebase from "firebase";
-import Navbar from '../../components/Navbar/Navbar'
-import MainApp from '../../components/MainApp/MainApp'
 
-class App extends Component {
-  constructor(props) {
-    super(props);
+class Dash extends Component {
+  constructor() {
+    super();
 
     this.handleLogout = this.handleLogout.bind(this);
   }
@@ -20,12 +18,14 @@ class App extends Component {
 
   render() {
     return (
-      <div>
-        <Navbar logout={this.handleLogout}/>
-        <MainApp />
+      <div className="App-intro">
+        
+        <button onClick={this.handleLogout} className="App-btn">
+          Salir
+        </button>
       </div>
     );
   }
 }
 
-export default App;
+export default Dash;
