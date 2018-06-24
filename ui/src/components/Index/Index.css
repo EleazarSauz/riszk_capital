@@ -1,0 +1,17 @@
+.index {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+
+.index-item {
+  grid-column: 1 / 2;
+}
+
+.index-item--right {
+  grid-column: 2 / 3;
+  grid-row: 1 / 7
+}
+
+.jumbotro.header {
+  background-color: white;
+}

@@ -1,12 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter } from 'react-router-dom'
 import "bootstrap/dist/css/bootstrap.min.css";
 import './index.css';
 import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 import firebase from "firebase";
 
- 
+
 // Initialize Firebase
 // TODO: Replace with your project's customized code snippet
 const config = {
@@ -19,6 +20,11 @@ const config = {
   };
   firebase.initializeApp(config);
 
+const app = (
+  <BrowserRouter>
+    <App />
+  </BrowserRouter>
+)
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(app, document.getElementById('root'));
 registerServiceWorker();

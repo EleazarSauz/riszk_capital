@@ -4,9 +4,11 @@ import { Row } from 'reactstrap'
 class IndexAbout extends Component {
   render() {
     return(
-      <Row>
+      <Row className="index-item">
         About
       </Row>
     )
   }
 }
+
+export default IndexAbout
