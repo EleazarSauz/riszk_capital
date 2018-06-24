@@ -1,0 +1,491 @@
+id,name,sum(B.l_bp),count(*)
+1,"Adam Pavlasek",12,7
+2,"Adelchi Virgili",7,1
+3,"Adrian Bodmer",8,3
+4,"Adrian Menendez Maceiras",17,7
+5,"Adrien Bossel",12,5
+6,"Agustin Velotti",0,2
+7,"Aldin Setkic",51,13
+8,"Alejandro Gomez Gb42",48,7
+9,"Alejandro Gonzalez",29,9
+10,"Alejandro Mendoza",14,2
+11,"Aleksandr Nedovyesov",15,5
+12,"Alessandro Bega",20,8
+13,"Alessandro Damiano Ventre",5,1
+14,"Alessandro Giannessi",52,12
+15,"Alessandro Motti",4,1
+16,"Alessandro Petrone",5,1
+17,"Alex Bolt",27,7
+18,"Alexander Babanine",17,3
+19,"Alexander Bury",14,4
+20,"Alexander Lazov",3,1
+21,"Alexander Pavlioutchenkov",8,1
+22,"Alexander Sarkissian",30,9
+23,"Alexander Vasilenko",9,2
+24,"Alexander Ward",17,3
+25,"Alexander Zhurbin",8,3
+26,"Alexandr Igoshin",19,3
+27,"Alexey Vatutin",37,11
+28,"Alexios Halebian",18,4
+29,"Andrea Arnaboldi",34,13
+30,"Andrea Basso",21,7
+31,"Andrea Collarini",40,10
+32,"Andreas Haider Maurer",8,3
+33,"Andreas Seppi",6,2
+34,"Andreas Siljestrom",6,1
+35,"Andrej Martin",30,8
+36,"Andrew Harris",16,5
+37,"Andrew Whittington",37,8
+38,"Andrey Yakovlev",6,1
+39,"Ante Pavic",54,13
+40,"Antoine Escoffier",27,9
+41,"Antonio Ruiz Rosales",2,1
+42,"Arata Onozawa",1,1
+43,"Arjun Kadhe",7,2
+44,"Arnau Dachs",0,1
+45,"Arthur De Greef",41,12
+46,"Aslan Karatsev",18,4
+47,"Attila Balazs",15,5
+48,"Austin Krajicek",19,7
+49,"Axel Michon",1,1
+50,"Benjamin Lock",14,4
+51,"Benjamin Mitchell",15,3
+52,"Bernard Tomic",2,2
+53,"Bjorn Fratangelo",13,5
+54,"Blaz Kavcic",14,4
+55,"Blaz Rola",28,10
+56,"Boris Arias",17,3
+57,"Bradley Klahn",37,9
+58,"Bradley Mousley",32,10
+59,"Brayden Schnur",39,12
+60,"Brydan Klein",42,10
+61,"Caio Silva",3,1
+62,"Calum Puttergill",2,1
+63,"Cameron Norrie",11,6
+64,"Carlos Berlocq",2,2
+65,"Carlos Boluda Purkiss",10,5
+66,"Carlos Gomez Herrera",25,8
+67,"Cheng Peng Hsieh",20,4
+68,"Cheng Yu Yu",3,1
+69,"Cheong Eui Kim",15,5
+70,"Christian Garin",38,10
+71,"Christian Harrison",23,11
+72,"Christian Lindell",3,1
+73,"Christopher Diaz Figueroa",15,2
+74,"Christopher Oconnell",5,2
+75,"Christopher Rungkat",7,3
+76,"Chuhan Wang",12,2
+77,"Constant Lestienne",38,10
+78,"Cristian Rodriguez",24,6
+79,"Dane Propoggia",11,3
+80,"Daniel Brands",8,2
+81,"Daniel Dutra Da Silva",13,3
+82,"Daniel Evans",5,2
+83,"Daniel Gimeno Traver",24,7
+84,"Daniel Masur",34,9
+85,"Daniel Munoz De La Nava",37,8
+86,"Daniel Nguyen",6,2
+87,"Daniel Yoo",8,3
+88,"Daniiar Duldaev",6,2
+89,"Daniil Medvedev",5,1
+90,"Danilo Petrovic",43,9
+91,"Dante Gennaro",6,1
+92,"Darian King",34,11
+93,"Dario Acosta",5,1
+94,"David Guez",17,6
+95,"David Pel",3,1
+96,"David Vega Hernandez",16,6
+97,"Dayne Kelly",25,8
+98,"Denis Istomin",3,2
+99,"Denis Kudla",35,9
+100,"Denis Matsukevitch",2,1
+101,"Dennis Nevolo",6,1
+102,"Dennis Novak",20,8
+103,"Dennis Novikov",31,10
+104,"Denys Molchanov",5,3
+105,"Di Wu",40,11
+106,"Dimitar Kuzmanov",15,4
+107,"Divij Sharan",3,1
+108,"Donald Young",11,2
+109,"Dorian Descloix",1,2
+110,"Dragos Dima",1,1
+111,"Dudi Sela",28,6
+112,"Dusan Lajovic",2,1
+113,"Dustin Brown",22,6
+114,"Dzmitry Zhyrmont",2,1
+115,"Edoardo Eremin",12,2
+116,"Eduard Esteve Lobato",9,2
+117,"Edward Bourchier",6,2
+118,"Edward Corrie",10,7
+119,"Egor Gerasimov",8,5
+120,"Elias Ymer",31,8
+121,"Emilio Gomez",47,7
+122,"Enrique Lopez Perez",48,10
+123,"Enzo Couacaud",3,2
+124,"Erik Crepaldi",8,4
+125,"Ernests Gulbis",44,9
+126,"Evan King",33,12
+127,"Evan Song",9,6
+128,"Evgeny Donskoy",7,3
+129,"Evgeny Karlovskiy",22,8
+130,"Fabrice Martin",8,2
+131,"Fabricio Neis",4,2
+132,"Facundo Arguello",27,6
+133,"Facundo Bagnis",30,7
+134,"Farrukh Dustov",5,2
+135,"Federico Coria",29,7
+136,"Federico Gaio",49,13
+137,"Federico Zeballos",23,4
+138,"Felipe Mantilla",20,8
+139,"Fernando Romboli",21,4
+140,"Filip Horansky",6,4
+141,"Filip Peliwo",50,12
+142,"Filippo Baldi",14,6
+143,"Flavio Cipolla",10,3
+144,"Florian Mayer",4,2
+145,"Francesco Garzelli",3,1
+146,"Francisco Dias",25,3
+147,"Franco Agamenone",49,9
+148,"Franco Skugor",6,3
+149,"Frank Dancevic",17,6
+150,"Frederico Ferreira Silva",10,2
+151,"Frederico Gil",6,3
+152,"Frederik Nielsen",21,6
+153,"Gastao Elias",31,8
+154,"Gavin Van Peperzeel",16,3
+155,"Gerard Granollers",33,13
+156,"Germain Gigounon",6,2
+157,"Gianluigi Quinzi",15,6
+158,"Gianni Mina",5,3
+159,"Gibril Diarra",10,2
+160,"Gilles Simon",6,2
+161,"Gleb Sakharov",25,10
+162,"Go Soeda",29,10
+163,"Gonzalo Escobar",14,6
+164,"Gonzalo Lama",13,3
+165,"Gonzalo Villanueva",6,2
+166,"Gregoire Barrere",14,4
+167,"Grzegorz Panfil",10,2
+168,"Guido Andreozzi",21,8
+169,"Guilherme Clezar",28,8
+170,"Guillermo Duran",12,3
+171,"Guillermo Garcia Lopez",3,1
+172,"Guillermo Olaso",27,9
+173,"Harri Heliovaara",2,1
+174,"Henri Laaksonen",27,9
+175,"Henry Craig",2,1
+176,"Hernan Casanova",14,6
+177,"Hiroki Moriya",31,9
+178,"Hiroyasu Ehara",17,4
+179,"Hong Chung",1,1
+180,"Hsien Yin Peng",2,1
+181,"Hugo Dellien",2,3
+182,"Hugo Nys",5,2
+183,"Igor Sijsling",4,5
+184,"Inigo Cervantes Huegun",30,9
+185,"Ivan Dodig",2,1
+186,"Ivan Endara",13,4
+187,"Ivan Nedelko",22,7
+188,"Ivan Sabanov",4,2
+189,"Ivan Sergeyev",1,1
+190,"Jacob Grills",32,10
+191,"Jae Hwan Kim",10,3
+192,"James Frawley",14,3
+193,"James Ward",23,4
+194,"Jan Hernych",4,1
+195,"Jan Satral",22,7
+196,"Jared Donaldson",2,1
+197,"Jared Hiltzik",21,9
+198,"Jason Jung",24,10
+199,"Jason Kubler",47,9
+200,"Javier Marti",8,4
+201,"Jc Aragone",29,11
+202,"Jea Moon Lee",0,1
+203,"Jeevan Nedunchezhiyan",5,1
+204,"Jeremy Chardy",3,3
+205,"Jeremy Jahn",37,11
+206,"Ji Sung Nam",3,1
+207,"Jiri Vesely",1,1
+208,"Joao Domingues",15,9
+209,"Joao Lucas Magalhaes Hueb De Menezes",2,1
+210,"Joao Pedro Sorgi",19,5
+211,"Joao Souza",27,10
+212,"Joffrey De Schepper",3,2
+213,"Johan Sebastien Tatlot",5,1
+214,"John Millman",4,2
+215,"John Patrick Smith",18,7
+216,"Jonathan Eysseric",12,3
+217,"Jonathan Hilaire",1,1
+218,"Jonathan Kanar",17,4
+219,"Jordan Thompson",24,8
+220,"Jordi Samper Montana",3,2
+221,"Jorge Brian Panta Herreros",7,2
+222,"Joris De Loore",11,7
+223,"Jose Hernandez",24,10
+224,"Jose Pereira",3,1
+225,"Jose Rubin Statham",44,13
+226,"Jozef Kovalik",15,9
+227,"Juan Carlos Saez",4,2
+228,"Juan Ignacio Galarza",21,7
+229,"Juan Ignacio Londero",16,9
+230,"Julian Lenz",27,5
+231,"Jung Woong Na",16,3
+232,"Jurgen Melzer",5,3
+233,"Jurgen Zopp",32,9
+234,"Kaichi Uchida",39,11
+235,"Kamil Majchrzak",33,11
+236,"Karim Mohamed Maamoun",11,3
+237,"Karue Sell",7,2
+238,"Karunuday Singh",4,1
+239,"Kei Nishikori",7,1
+240,"Ken Onishi",5,2
+241,"Kenny De Schepper",24,12
+242,"Kento Takeuchi",4,4
+243,"Kevin King",53,8
+244,"Kevin Krawietz",18,7
+245,"Kimmer Coppejans",40,11
+246,"Konstantin Kravchuk",15,6
+247,"Lamine Ouahab",0,1
+248,"Laslo Djere",21,5
+249,"Laurent Lokoli",15,4
+250,"Laurent Rochette",3,2
+251,"Laurynas Grigelis",16,7
+252,"Liam Broady",21,9
+253,"Lloyd Glasspool",9,5
+254,"Loic Perret",3,1
+255,"Lorenzo Giustino",33,7
+256,"Luca Margaroli",19,9
+257,"Luca Vanni",20,8
+258,"Lucas Gomez",37,7
+259,"Lucas Miedler",3,2
+260,"Luis David Martinez",23,5
+261,"Luis Patino",17,5
+262,"Lukas Lacko",8,5
+263,"Lukas Rosol",23,5
+264,"Luke Bambridge",26,6
+265,"Luke Saville",48,11
+266,"Mackenzie Mcdonald",23,7
+267,"Malek Jaziri",7,5
+268,"Manuel Sanchez",51,6
+269,"Marc Giner",14,4
+270,"Marc Sieber",8,2
+271,"Marcel Granollers",13,8
+272,"Marcelo Arevalo",45,8
+273,"Marco Bortolotti",19,4
+274,"Marco Cecchinato",5,5
+275,"Marco Trungelliti",40,8
+276,"Marcos Baghdatis",2,2
+277,"Marcos Giron",15,7
+278,"Marcus Willis",6,1
+279,"Marin Draganja",5,3
+280,"Marinko Matosevic",19,5
+281,"Mario Vilella Martinez",29,7
+282,"Marius Copil",6,1
+283,"Marko Djokovic",9,1
+284,"Marko Tepavac",16,3
+285,"Marsel Ilhan",7,2
+286,"Martin Cuevas",28,6
+287,"Martin Klizan",5,3
+288,"Martins Podzus",13,3
+289,"Marton Fucsovics",8,3
+290,"Matej Sabanov",8,2
+291,"Mathias Bourgue",40,13
+292,"Matias Franco Descotte",0,1
+293,"Matt Reid",7,1
+294,"Matteo Donati",19,11
+295,"Matteo Viola",33,8
+296,"Matthew Barton",19,5
+297,"Matthew Ebden",11,3
+298,"Matthew Kandath",2,1
+299,"Matthias Bachinger",26,10
+300,"Mauricio Astorga",4,1
+301,"Mauricio Echazu",12,6
+302,"Maverick Banes",37,11
+303,"Maxime Chazal",8,4
+304,"Maxime Tabatruong",8,5
+305,"Maxime Tchoutakian",3,1
+306,"Maximilian Marterer",8,3
+307,"Maximilian Neuchrist",0,1
+308,"Maximiliano Estevez",4,1
+309,"Maximo Gonzalez",18,6
+310,"Michael Look",4,2
+311,"Michael Mmoh",42,9
+312,"Michael Ray Pallares Gonzalez",4,1
+313,"Michael Redlicki",2,2
+314,"Michael Zhu",12,2
+315,"Michal Przysiezny",21,5
+316,"Michel Vernier",3,1
+317,"Mick Lescure",17,2
+318,"Mikhail Balmashev",2,1
+319,"Mikhail Elgin",16,7
+320,"Mikhail Fufygin",10,2
+321,"Mikhail Kukushkin",2,1
+322,"Mikhail Youzhny",8,3
+323,"Miliaan Niesten",4,2
+324,"Miljan Zekic",10,4
+325,"Mirza Basic",8,3
+326,"Mitchell Krueger",33,14
+327,"Mohamed Safwat",21,11
+328,"Mousa Shanan Zayed",1,1
+329,"N Sriram Balaji",38,11
+330,"N Vijay Sundar Prashanth",22,7
+331,"Naoki Nakagawa",0,2
+332,"Nathan Pasha",16,7
+333,"Nicholas Monroe",2,1
+334,"Nicolaas Scholtz",25,5
+335,"Nicolas Barrientos",20,4
+336,"Nicolas Mahut",17,4
+337,"Niels Desein",11,3
+338,"Nigmat Shofayziev",9,2
+339,"Nikola Cacic",13,6
+340,"Nikola Milojevic",37,10
+341,"Nikoloz Basilashvili",1,1
+342,"Noah Rubin",21,7
+343,"Norbert Gombos",28,8
+344,"Omar Giacalone",9,2
+345,"Oscar Otte",58,13
+346,"Pablo Andujar",8,3
+347,"Paolo Lorenzi",8,1
+348,"Pascal Brunner",5,1
+349,"Patricio Heras",32,7
+350,"Pavel Krainik",19,6
+351,"Pavel Tsoy",7,2
+352,"Pedja Krstin",88,12
+353,"Pedro Cachin",28,7
+354,"Pedro Sakamoto",24,6
+355,"Pedro Sousa",13,8
+356,"Pere Riba",7,2
+357,"Peter Nagy",5,2
+358,"Peter Polansky",19,10
+359,"Peter Torebko",48,6
+360,"Philip Davydenko",2,1
+361,"Philipp Petzschner",4,1
+362,"Pierre Hugues Herbert",4,1
+363,"Pietro Licciardi",2,2
+364,"Pietro Rondoni",3,1
+365,"Pol Toledo Bague",12,3
+366,"Prajnesh Gunneswaran",17,7
+367,"Purav Raja",3,1
+368,"Quentin Halys",43,8
+369,"Radu Albot",13,4
+370,"Rajeev Ram",1,1
+371,"Ramkumar Ramanathan",16,7
+372,"Raul Isaias Rosas Zarur",16,3
+373,"Raymond Sarmiento",1,1
+374,"Renzo Olivo",41,9
+375,"Ricardas Berankis",19,5
+376,"Ricardo Ojeda Lara",13,7
+377,"Riccardo Bellotti",1,1
+378,"Riccardo Bonadio",3,1
+379,"Roberto Carballes Baena",5,2
+380,"Roberto Cid",19,7
+381,"Roberto Marcora",22,6
+382,"Roberto Maytin",20,4
+383,"Roberto Ortega Olmedo",25,8
+384,"Roberto Quiroz",29,10
+385,"Robin Kern",10,3
+386,"Robin Stanek",1,2
+387,"Rogerio Dutra Silva",14,5
+388,"Romain Arneodo",4,1
+389,"Romain Barbosa",4,1
+390,"Ronald Slobodchikov",21,4
+391,"Ronnie Schneider",2,1
+392,"Ruan Roelofse",15,5
+393,"Ruben Bemelmans",8,4
+394,"Ruben Gonzales",8,2
+395,"Ruikai Wang",11,4
+396,"Ryota Kishi",4,1
+397,"Saketh Myneni",7,2
+398,"Salvatore Caruso",24,9
+399,"Sam Barry",14,5
+400,"Samuel Groth",2,1
+401,"Samuel Monette",5,2
+402,"Sander Gille",3,1
+403,"Santiago Giraldo",19,4
+404,"Savino Lapalombella",4,1
+405,"Scott Griekspoor",17,5
+406,"Sebastian Fanselow",34,6
+407,"Sekou Bangoura",9,4
+408,"Seong Chan Hong",9,3
+409,"Seong Gook Oh",7,2
+410,"Sergey Betov",4,2
+411,"Sergio Gutierrez Ferrol",15,6
+412,"Sergiy Stakhovsky",21,11
+413,"Shahbaaz Khan",10,2
+414,"Shalva Dzhanashia",17,3
+415,"Shinta Fujii",2,2
+416,"Sho Katayama",2,2
+417,"Shuichi Sekiguchi",12,7
+418,"Sidharth Rawat",9,5
+419,"Simone Bolelli",4,6
+420,"Stefan Kozlov",43,8
+421,"Stefano Napolitano",19,10
+422,"Stefano Travaglia",5,4
+423,"Stephan Fransen",6,1
+424,"Stephane Robert",42,10
+425,"Steve Johnson",4,1
+426,"Steven Diez",25,7
+427,"Steven Goh",5,1
+428,"Sumit Nagal",24,8
+429,"Tak Khunn Wang",1,1
+430,"Takanyi Garanganga",1,2
+431,"Takuto Niki",13,4
+432,"Taro Daniel",16,5
+433,"Tatsuma Ito",31,12
+434,"Tennys Sandgren",3,2
+435,"Teymuraz Gabashvili",24,8
+436,"Thai Son Kwiatkowski",7,2
+437,"Thales Turini",3,1
+438,"Thanasi Kokkinakis",0,1
+439,"Thiago Monteiro",9,5
+440,"Thiemo De Bakker",5,3
+441,"Thomas Fabbiano",7,3
+442,"Thomaz Bellucci",34,7
+443,"Ti Chen",18,4
+444,"Tigre Hank",20,8
+445,"Tim Puetz",22,7
+446,"Tim Smyczek",10,7
+447,"Tobias Kamke",40,13
+448,"Tobias Simon",36,6
+449,"Tom Farquharson",6,3
+450,"Tom Jomby",4,1
+451,"Tomas Lipovsek Puches",4,2
+452,"Tomislav Brkic",26,8
+453,"Tommy Robredo",29,9
+454,"Toshihide Matsui",25,5
+455,"Tristan Lamasine",25,10
+456,"Tsung Hua Yang",48,11
+457,"Tyler Hochwalt",13,2
+458,"Uladzimir Ignatik",48,14
+459,"Vaclav Safranek",33,10
+460,"Vasek Pospisil",20,6
+461,"Vasile Antonescu",3,1
+462,"Victor Estrella",18,6
+463,"Victor Nunez",3,1
+464,"Viktor Galovic",19,10
+465,"Vincent Millot",44,11
+466,"Vishnu Vardhan",42,8
+467,"Vladimir Ivanov",6,2
+468,"Vladimir Polyakov",9,3
+469,"Vladimir Uzhylovsky",2,2
+470,"Vladyslav Manafov",14,2
+471,"Wilfredo Gonzalez",9,2
+472,"Wishaya Trongcharoenchaikul",30,8
+473,"Xin Gao",8,4
+474,"Yan Bai",14,4
+475,"Yannick Hanfmann",29,9
+476,"Yannick Jankovits",16,4
+477,"Yannick Mertens",11,5
+478,"Yannick Vandenbulcke",22,5
+479,"Yannik Reuter",3,2
+480,"Yaraslau Shyla",4,2
+481,"Yasutaka Uchiyama",19,9
+482,"Yen Hsun Lu",7,2
+483,"Yong Kyu Lim",9,3
+484,"Yoshihito Nishioka",13,6
+485,"Young Seok Kim",11,3
+486,"Yuki Bhambri",7,3
+487,"Yuuya Kibi",10,3
+488,"Ze Zhang",39,11
+489,"Zhe Li",33,13
+490,"Zhizhen Zhang",22,9
