@@ -50,7 +50,7 @@ class Lan extends Component {
                     ¿Cómo Empezar?
                   </a>
                 </li>
-                
+
                 <li className="nav-item">
                   <a className="nav-link js-scroll-trigger" href="#pricing">
                     Comiciones
@@ -71,11 +71,8 @@ class Lan extends Component {
           </div>
         </nav>
 
-        <header className="masthead video">
+        <header className="masthead video" style={{ backgroundImage: "url( https://images.unsplash.com/photo-1483630127888-2327389638e7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f5b85aa62fb48bbed6af07886ff4128f&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb )" }}>
           <div className="overlay" />
-          <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-            <source src="mp4/.mp4" type="video/mp4" />
-          </video>
           <div className="container h-100">
             <div className="row h-100">
               <div className="col-12 my-auto text-center text-white">
@@ -99,19 +96,17 @@ class Lan extends Component {
           <div className="container-fluid">
             <div className="wow fadeIn text-center" style={{ visibility: "visible", animationName: "fadeIn" }}>
               <h1>nosotros</h1>
-              <p className="mb-0">
-                Nuestra pltaforma se sustenta en:
-              </p>
+              <p className="mb-0">Nuestra pltaforma se sustenta en:</p>
             </div>
             <hr className="colored" />
             <div className="row text-center">
               <div className="col-lg-3 col-md-6">
                 <div className="wow fadeIn px-4 pb-4 pb-lg-0 h-100" data-wow-delay=".2s" style={{ visibility: "visible", animationDelay: "0.2s", animationName: "fadeIn" }}>
                   <i className="fa fa-edit fa-4x" />
-                  <h3>Cinfiabilidad del 99.9%</h3>
+                  <h3>Rentabilidad del 18% mensual</h3>
                   <p className="mb-0">
                     Nuestro modelo predictivo tiene una alta tasa de
-                    confiabilidad en cuanto a los resultados
+                    rentabilidad en cuanto a los resultados
                   </p>
                 </div>
               </div>
@@ -152,10 +147,10 @@ class Lan extends Component {
         </section>
 
         <section className="page-section bg-light" id="team">
-          <iframe width="100%" height="480" src="https://demo_chart.tradingview.com/m.html?lang=es" frameborder="0" allowfullscreen />
+          <iframe width="100%" height="480" src="https://demo_chart.tradingview.com/m.html?lang=es" frameBorder="0" allowFullScreen />
         </section>
 
-        <section className="call-to-action" style={{ backgroundImage: "url( img/agency/backgrounds/bg-quote.jpg )" }}>
+        <section className="call-to-action" style={{ backgroundImage: "url( https://images.unsplash.com/photo-1519879709058-11082644047d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6a80a25b26244ea6bea813cfe8a9b737&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb )" }}>
           <div className="container wow fadeIn" style={{ visibility: "visible", animationName: "fadeIn" }}>
             <div className="row">
               <div className="col-md-10 mx-auto">
@@ -238,7 +233,7 @@ class Lan extends Component {
           </div>
         </section>
 
-        <section className="page-section pricing" id="pricing" style={{ backgroundImage: "url( img/agency/backgrounds/bg-pricing.jpg )" }}>
+        <section className="page-section pricing" id="pricing" style={{ backgroundImage: "url( https://images.unsplash.com/photo-1485388276992-0ce5ce2d6981?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b23bb57338708adc590a9243d8f80797&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb)" }}>
           <div className="container wow fadeIn" style={{ visibility: "visible", animationName: "fadeIn" }}>
             <div className="text-center">
               <h2>Comiciones</h2>
@@ -324,7 +319,7 @@ class Lan extends Component {
             <div className="row">
               <div className="col-lg-8 mx-auto">
                 <div id="mc_embed_signup">
-                  <form role="form" action="" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate="novalidate">
+                  <form role="form" action="" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" noValidate="novalidate">
                     <div className="input-group input-group-lg">
                       <input type="email" name="EMAIL" className="form-control" id="mce-EMAIL" placeholder="Correo..." />
                       <span className="input-group-btn">
